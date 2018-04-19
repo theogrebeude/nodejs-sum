@@ -1,5 +1,11 @@
 {
+  "name": "theo-app",
+  "version": "1.0.0",
+  "description": "lab01",
+  "main": "sum.js",
   "scripts": {
-    "test": "jest"
-  }
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
 }
